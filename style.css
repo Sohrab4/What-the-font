@@ -1,0 +1,21 @@
+html{
+  scroll-behavior: smooth;
+}
+h1{
+ 
+  color:pink;
+}
+body{
+  margin: 300px;
+  color: pink;
+  background-color: black;
+}
+p{font-family: "Audiowide", sans-serif;
+  font-weight:700;
+  color:pink;
+}
+footer{
+  font-family:'Montserrat Alternates',sans-serif;
+   font-weight:700;
+  color:pink;
+}
